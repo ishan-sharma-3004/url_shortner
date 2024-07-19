@@ -22,6 +22,4 @@ You can set up GitHub Actions to automatically test your code when you push chan
 
 **3. Set Up a Live Demo:**
 You might want to deploy your Django app on a platform like Heroku, AWS, or DigitalOcean for a live demo.
-
-Let me know if you need further help with any of these steps!
 '''
